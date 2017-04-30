@@ -2,6 +2,6 @@
 Just another repository
 
 Installation instructions:
-Some installation isstructions
+Some installation instructions
 Usage:
 Some Usage
