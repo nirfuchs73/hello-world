@@ -10,6 +10,7 @@ Test 2222
 Feature4
 44444444
 Feature5
+Feature7
 Git test 1
 Git test 2
 55555555
