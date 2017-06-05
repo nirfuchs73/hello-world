@@ -2,12 +2,8 @@
 echo -----------------------------------------------
 echo --------------- Start Checkout ----------------
 echo -----------------------------------------------
-rem echo git checkout master
-rem git checkout master
-rem echo git pull
-git pull
-echo git checkout develop
-git checkout develop
+echo git checkout %1
+git checkout %1
 echo git pull
 git pull
 echo -----------------------------------------------
