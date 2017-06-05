@@ -2,9 +2,9 @@
 echo -----------------------------------------------
 echo --------------- Start Checkout ----------------
 echo -----------------------------------------------
-echo git checkout master
-git checkout master
-echo git pull
+rem echo git checkout master
+rem git checkout master
+rem echo git pull
 git pull
 echo git checkout develop
 git checkout develop
