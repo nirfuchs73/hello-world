@@ -11,6 +11,7 @@ Feature4
 44444444
 Feature5
 Feature7
+Feature8
 Git test 1
 Git test 2
 55555555
