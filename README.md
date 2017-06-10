@@ -37,3 +37,4 @@ hook test4
 hook test5
 hook test6
 hook test7
+hook test8
