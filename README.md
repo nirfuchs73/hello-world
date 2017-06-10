@@ -32,3 +32,4 @@ Git test 14
 Git test 15
 hook test
 hook test1
+hook test3
